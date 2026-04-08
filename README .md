@@ -75,29 +75,6 @@ graph TD
   * **Re-ranker**: Flashrank
   * **Core Language**: Python 3.10+ (`asyncio`)
 
------
-
-## 🚀 Setup and Installation
-
-Follow these steps to get the project running locally.
-
-### 1\. Clone the Repository
-
-```bash
-git clone https://github.com/Rupesh4604/Intelligent-Multi-Agent-Knowledge-Assistant.git
-cd Intelligent-Multi-Agent-Knowledge-Assistant
-```
-
-### 2\. Create a Virtual Environment
-
-It's recommended to use a virtual environment to manage dependencies.
-
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-```
-
-### 3\. Install Dependencies
 
 Install all the required Python packages.
 
@@ -107,7 +84,6 @@ pip install langchain-community faiss-cpu
 pip install flashrank
 ```
 
------
 
 ## 🔑 Configuration
 
